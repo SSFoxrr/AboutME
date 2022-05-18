@@ -1,9 +1,11 @@
 <h1>Hey, I'm Zain! 👋<br/><i>Information Security Professional</i></h1>
+
 <h2>🌇 About Me</h2>
+
 <ul>
-<li>Attending Western Governors University in order to obtain my B.S in Information Technology Management (Est. Completion: Dec. 2022)</li>
-- Studying for the CompTIA Network+ Certification (Est. Completion: June 2022)</br>
-- Coding common Cybersecurity tools in order to obtain a deeper understanding
+  <li>Attending Western Governors University in order to obtain my B.S in Information Technology Management (Est. Completion: Dec. 2022)</li>
+  <li>Studying for the CompTIA Network+ Certification (Est. Completion: June 2022)</li>
+  <li>Coding common Cybersecurity tools in order to obtain a deeper understanding</li>
 </ul>
 
 <h2>📝 Some Projects I Have Completed</h2>
