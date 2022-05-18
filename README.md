@@ -19,9 +19,8 @@
 
 <h2>📞 How to Reach Me</h2>
 
-<ul>
-  <li>
-</ul>
+ZainWalker97@gmail.com
+
 
 
 <!--
