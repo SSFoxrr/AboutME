@@ -4,7 +4,7 @@
 - Studying for the CompTIA Network+ Certification (Est. Completion: June 2022)</br>
 - Coding common Cybersecurity tools in order to obtain a deeper understanding
 
-<h2>📝 Some Projects I Have Completed</h2><br/>
+<h2>📝 Some Projects I Have Completed</h2>
 - <b>Python</b><br/>
   - input link here <br/>
 - <b>C++</b></br>
