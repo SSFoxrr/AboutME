@@ -11,10 +11,10 @@
 <h2>📝 Some Projects I Have Completed</h2>
 
 <ul>
-  <li>Python
-  - input link here <br/>
-- <b>C++</b></br>
-  - input link here<br/>
+  <li><b>Python</b></li>
+    - input link here <br/>
+  <li><b>C++</b></li>
+    - input link here<br/>
 </ul>
 
 <h2>How to Reach Me</h2>
