@@ -19,7 +19,7 @@
 
 <h2>📞 How to Reach Me</h2>
 
-<a href="mailto:ZainWalker97@gmail.com">ZainWalker97@gmail.com</a>
+<a href="mailto:zainwalker97@gmail.com">zainwalker97@gmail.com</a>
 
 
 
