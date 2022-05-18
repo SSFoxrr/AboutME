@@ -2,7 +2,7 @@
 <h2>🌇 About Me</h2>
 - Attending Western Governors University in order to obtain my B.S in Information Technology Management (Est. Completion: Dec. 2022)</br>
 - Studying for the CompTIA Network+ Certification (Est. Completion: June 2022)</br>
-- Coding common Cybersecurity tools in order to obtain a deeper understanding</br>
+- Coding common Cybersecurity tools in order to obtain a deeper understanding
 
 <h2>📝 Some Projects I Have Completed</h2><br/>
 - <b>Python</b><br/>
