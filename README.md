@@ -9,7 +9,7 @@
 
 
 <h3>📝 Some Projects I Have Completed</h3><br/>
-- <b>Python</b>
+- <b>Python</b><br/>
   - input link here <br/>
 - <b>C++</b></br>
   - input link here<br/>
