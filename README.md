@@ -1,5 +1,5 @@
 <h1>Hey, I'm Zain! 👋<br/><i><p>Information Security Professional</p></i></h1>
-🌇<h2>About Me</h2>
+<h2>🌇 About Me</h2>
 - 👨‍🎓 Attending Western Governors University in order to obtain my B.S in Information Technology Management (Est. Completion: Dec. 2022).
 - 🌱 Studying for the CompTIA Network+ Certification (Est. Completion: June 2022).
 <!--
