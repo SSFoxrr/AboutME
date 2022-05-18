@@ -17,9 +17,9 @@
     - input link here<br/>
 </ul>
 
-<h2>📞 How to Reach Me</h2>
+<h2>📫 How to Reach Me</h2>
 
-<center><p><a href="mailto:zainwalker97@gmail.com">zainwalker97@gmail.com</a></p></center>
+<a href="mailto:zainwalker97@gmail.com">zainwalker97@gmail.com</a>
 
 
 
