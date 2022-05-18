@@ -1,4 +1,4 @@
-<h1>Hey, I'm Zain! 👋</h1><h2>Information Security Professional</h2>
+<h1>Hey, I'm Zain! 👋</h1><b>Information Security Professional</b>
 
 <!--
 **ZainWalker/ZainWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
