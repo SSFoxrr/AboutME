@@ -10,9 +10,9 @@
 
 <h3>📝 Some Projects I Have Completed</h3><br/>
 - <b>Python</b>
-  - input link here
-- <b>C++</b>
-  - input link here
+  - input link here <br/>
+- <b>C++</b></br>
+  - input link here<br/>
 
 <h4>How to reach me</h4>
 <!--
