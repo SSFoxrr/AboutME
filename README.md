@@ -12,7 +12,7 @@
 
 <ul>
   <li><b>Python</b></li>
-    - [Port Scanner](https://github.com/ZainWalker/PortScanner/blob/main/main.py)<br/>
+  - <a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a><br/>
   <li><b>C++</b></li>
     - input link here<br/>
 </ul>
