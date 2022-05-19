@@ -15,7 +15,10 @@
  - <a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a><br/>
   <li><b>C++</b></li>
  - input link here<br/>
+  <li><b>PowerShell</b></li>
+ - input link here<br/>
 </ul>
+
 
 <h2>📫 How to Reach Me</h2>
 
