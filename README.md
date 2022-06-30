@@ -4,7 +4,7 @@
 
 <ul>
   <li>Attending Western Governors University in order to obtain my B.S in Information Technology Management (Est. Completion: Dec. 2022)</li>
-  <li>Studying for the CompTIA Network+ Certification (Est. Completion: June 2022)</li>
+  <li>Studying for the CompTIA Securityk+ Certification (Est. Completion: July 2022) and Azure Security Engineer (Est. Completion: July 2022)</li>
   <li>Coding common Cybersecurity tools in order to obtain a deeper understanding</li>
 </ul>
 
