@@ -3,8 +3,6 @@
 <h2>🌇 About Me</h2>
 
 <ul>
-  <li>Attending Western Governors University in order to obtain my B.S in Information Technology Management (Est. Completion: Dec. 2022)</li>
-  <li>Studying for the Azure Security Engineer Certification(Est. Completion: July 2022)</li>
   <li>Coding common Cybersecurity tools in order to obtain a deeper understanding</li>
 </ul>
 
