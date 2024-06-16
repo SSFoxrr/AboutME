@@ -1,4 +1,4 @@
-<h1>Hey, I'm Zain! 👋</h1></br><i>Information Security Professional</i>
+<h1>Hey, I'm Zain! 👋</br><i>Information Security Professional</i></h1>
 
 <h2>🌇 About Me</h2>
 
