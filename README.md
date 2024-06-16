@@ -21,9 +21,12 @@
       <li>Projectes</li>
     </ul>
   </li>
-  <li><b>C++</b></li>
-  - <a href="https://github.com/ZainWalker/Keylogger/blob/main/main.cpp">Keylogger</a><br/>
-
+  
+  <li><b>C++</b>
+    <ul>
+      <li><a href="https://github.com/ZainWalker/Keylogger/blob/main/main.cpp">Keylogger</a></li>
+    </ul>
+  </li>
 </ul>
 
 
