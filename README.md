@@ -11,8 +11,11 @@
 <ul>
   
   <li><b>Python</b>
-    <li><a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a><br/>
+    <ul>
+      <li><a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a></li>
+    </ul>
   </li>
+  
   <li><b>C</b></li>
  - In Progress<br/>
   <li><b>C++</b></li>
