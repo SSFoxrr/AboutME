@@ -10,7 +10,7 @@
 
 <ul>
   <li><b>Python</b></li>
- - <a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a><br/>
+  <li><a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a></li><br/>
     <li><b>C</b></li>
  - In Progress<br/>
   <li><b>C++</b></li>
