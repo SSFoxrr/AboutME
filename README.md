@@ -18,7 +18,11 @@
   
   <li><b>C</b>
     <ul>
-      <li>Projectes</li>
+      <li><a href="https://github.com/ZainWalker/declaringVariables/blob/main/declaringVariables.c">Declaring Variables</a></li>
+      <li><a href="https://github.com/ZainWalker/check/blob/main/Check.c">Check Mark of Asterisks</a></li>
+      <li><a href="https://github.com/ZainWalker/volumeOfSphere/blob/main/volumeOfSphere.c">Volume of a Sphere</a></li>
+      <li><a href="https://github.com/ZainWalker/productInformation/blob/main/productInformation.c">Product Information</a></li>
+      <li><a href="https://github.com/ZainWalker/oneMonthCalendar/blob/main/one-monthCalendar.c">Calendar Month</a></li>
     </ul>
   </li>
   
