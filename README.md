@@ -1,4 +1,4 @@
-<h1>Hey, I'm Zain! 👋</br><i>Software Engineer and Cybersecurity Professional</i></h1>
+<h1>Hey, I'm Zain! 👋</br><i>Software Engineer && Cybersecurity Professional</i></h1>
 
 <h2>🌇 About Me</h2>
 
