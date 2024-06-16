@@ -9,8 +9,10 @@
 <h2>📝 Some Projects I Have Completed</h2>
 
 <ul>
-  <li><b>Python</b></li>
-    <li><a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a></li><br/>
+  
+  <li><b>Python</b>
+    <li><a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a><br/>
+  </li>
   <li><b>C</b></li>
  - In Progress<br/>
   <li><b>C++</b></li>
