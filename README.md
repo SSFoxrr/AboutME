@@ -11,10 +11,11 @@
 <ul>
   <li><b>Python</b></li>
  - <a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a><br/>
+    <li><b>C</b></li>
+ - In Progress<br/>
   <li><b>C++</b></li>
   - <a href="https://github.com/ZainWalker/Keylogger/blob/main/main.cpp">Keylogger</a><br/>
-  <li><b>PowerShell</b></li>
- - In Progress<br/>
+
 </ul>
 
 
