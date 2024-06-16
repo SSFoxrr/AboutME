@@ -3,7 +3,7 @@
 <h2>🌇 About Me</h2>
 
 <ul>
-  <li>Coding common Cybersecurity tools in order to obtain a deeper understanding</li>
+  <li>Coding for fun and ease of life.</li>
 </ul>
 
 <h2>📝 Some Projects I Have Completed</h2>
