@@ -14,13 +14,7 @@
       <li><a href="https://github.com/ZainWalker/firstSmartContract/blob/main/contract">My First Smart Contract</a>
     </ul>
   </li>
-    
-  <li><b>Python</b>
-    <ul>
-      <li><a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a></li>
-    </ul>
-  </li>
-  
+
   <li><b>C</b>
     <ul>
       <li><a href="https://github.com/ZainWalker/volumeOfSphere/blob/main/volumeOfSphere.c">Volume of a Sphere</a></li>
@@ -30,6 +24,12 @@
       <li><a href="https://github.com/ZainWalker/calculatingLengthOfMessage/blob/main/calculatingLengthOfMessage.c">Calculating Length of a Message</a></li>
       <li><a href="https://github.com/ZainWalker/declaringVariables/blob/main/declaringVariables.c">Declaring Variables</a></li>
       <li><a href="https://github.com/ZainWalker/check/blob/main/Check.c">Check Mark of Asterisks</a></li>
+    </ul>
+  </li>
+    
+  <li><b>Python</b>
+    <ul>
+      <li><a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a></li>
     </ul>
   </li>
   
