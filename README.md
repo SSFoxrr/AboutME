@@ -9,7 +9,9 @@
 <h2>📝 Some Projects I Have Completed</h2>
 
 <ul>
-  
+  <li><b>Solidity</b>
+    <ul>
+      <li><a href="https://github.com/ZainWalker/firstSmartContract/blob/main/contract"></a>My First Smart Contract</li>
   <li><b>Python</b>
     <ul>
       <li><a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a></li>
