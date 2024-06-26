@@ -41,7 +41,7 @@
 
   <li><b>HTML/CSS</b>
     <ul>
-      <li><a href="https://github.com/ZainWalker/tributePage/tree/main">Tribute Page</a></li>-Viewable <a href="https://codepen.io/ZainSkywalker/pen/PBEypr">here</a>.
+      <li><a href="https://github.com/ZainWalker/tributePage/tree/main">Tribute Page</a> - Viewable <a href="https://codepen.io/ZainSkywalker/pen/PBEypr">here</a>.</li>
     </ul>
   </li>
   
