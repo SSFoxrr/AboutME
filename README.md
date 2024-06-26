@@ -11,7 +11,7 @@
 <ul>
   <li><b>Solidity</b>
     <ul>
-      <li><a href="https://github.com/ZainWalker/firstSmartContract/blob/main/contract">My First Smart Contract</a>
+      <li><a href="https://github.com/ZainWalker/firstSmartContract/tree/main">My First Smart Contract</a>
     </ul>
   </li>
 
