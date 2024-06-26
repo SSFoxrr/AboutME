@@ -3,7 +3,7 @@
 <h2>🌇 About Me</h2>
 
 <ul>
-  <li>Coding for fun and ease of life.</li>
+  <li>Web3 wizard and cybersecurity sleuth, weaving magic into the decentralized web and defending against the dark arts of cyber threats.</li>
 </ul>
 
 <h2>📝 Some Projects I Have Completed</h2>
