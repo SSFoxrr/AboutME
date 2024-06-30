@@ -11,6 +11,7 @@
 <ul>
   <li><b>Solidity</b>
     <ul>
+      <li><a href="https://github.com/ZainWalker/foundry-fund-me-f24/tree/main/foundry-f24/foundry-fund-me-f24">Full Smart Contract Project With Tests</a></li>
       <li><a href="https://github.com/ZainWalker/fundedSmartContract/tree/main">Smart Contract - Add and Withdrawl Funds</a></li>
       <li><a href="https://github.com/ZainWalker/firstSmartContract/tree/main">My First Smart Contract</a></li>
     </ul>
