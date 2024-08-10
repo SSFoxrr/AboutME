@@ -51,10 +51,7 @@
 </ul>
 
   <li><b>Community Notes</b>
-  
-  
-  
-  
+    <ul><a href="https://github.com/ZainWalker/CPTS-Cheat-Sheets">HackTheBox Certified Penetration Tester</a></ul>
   </li>
 
 <h2>📫 How to Reach Me</h2>
