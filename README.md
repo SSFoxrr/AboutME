@@ -47,14 +47,15 @@
       <li><a href="https://github.com/ZainWalker/tributePage/tree/main">Tribute Page</a> - Viewable <a href="https://codepen.io/ZainSkywalker/pen/PBEypr" target="_blank">here</a>.</li>
     </ul>
   </li>
-  
-</ul>
 
   <li><b>Community Notes</b>
     <ul>
       <li><a href="https://github.com/ZainWalker/CPTS-Cheat-Sheets">HackTheBox Certified Penetration Tester</a></li>
     </ul>
   </li>
+  
+</ul>
+
 
 <h2>📫 How to Reach Me</h2>
 
