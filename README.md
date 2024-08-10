@@ -9,6 +9,7 @@
 <h2>📝 Some Projects I Have Completed</h2>
 
 <ul>
+  
   <li><b>Solidity</b>
     <ul>
       <li><a href="https://github.com/ZainWalker/foundry-fund-me-f24/tree/main/foundry-f24/foundry-fund-me-f24">Full Smart Contract Project With Tests</a></li>
@@ -49,6 +50,12 @@
   
 </ul>
 
+  <li><b>Community Notes</b>
+  
+  
+  
+  
+  </li>
 
 <h2>📫 How to Reach Me</h2>
 
