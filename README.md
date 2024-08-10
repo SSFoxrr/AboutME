@@ -51,6 +51,7 @@
   <li><b>Community Notes</b>
     <ul>
       <li><a href="https://github.com/ZainWalker/CPTS-Cheat-Sheets">HackTheBox Certified Penetration Tester</a></li>
+      <li><a href="https://github.com/ZainWalker/APIsec-University-API-Penetration-Tester/tree/main">APIsec University API Penetration Tester</a></li>
     </ul>
   </li>
   
