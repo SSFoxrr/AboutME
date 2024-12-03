@@ -13,6 +13,8 @@
   <li><b>Rust</b>
     <ul>
       <li><a href="https://github.com/SSFoxrr/temp_swap/tree/master">Swap Between Fahrenheit and Celsius</a></li>
+      <li><a href="https://github.com/SSFoxrr/guessing_game/tree/master">Random Number Guessing Game</a></li>
+      <li><a href="https://github.com/SSFoxrr/rectangles/tree/master">Testing if a Rectangle Fits Within Another Rectangle</a></li>
       <li><a href="https://github.com/SSFoxrr/structs/tree/master">Struct Practices</a></li>
     </ul>
   </li>
