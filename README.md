@@ -6,7 +6,7 @@
   <li>Web3 wizard and cybersecurity sleuth, weaving magic into the decentralized web and defending against the dark arts of cyber threats.</li>
 </ul>
 
-<h2>📝 Some Projects I Have Completed</h2>
+<h2>📝 Stuff I've Worked On</h2>
 
 <ul>
 
