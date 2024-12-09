@@ -12,6 +12,7 @@
 
   <li><b>Rust</b>
     <ul>
+      <li><a href="https://github.com/SSFoxrr/sns">Solana Name Service</a></li>
       <li><a href="https://github.com/SSFoxrr/solana_program_structure/tree/main/counter_program">Solana - Counter Program</a></li>
       <li><a href="https://github.com/SSFoxrr/temp_swap/tree/master">Swap Between Fahrenheit and Celsius</a></li>
       <li><a href="https://github.com/SSFoxrr/guessing_game/tree/master">Random Number Guessing Game</a></li>
