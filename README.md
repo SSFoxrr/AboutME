@@ -43,6 +43,7 @@
   <li><b>Python</b>
     <ul>
       <li><a href="https://github.com/ZainWalker/PortScanner/blob/main/main.py">Port Scanner</a></li>
+      <li><a href="https://github.com/SSFoxrr/WorkoutTracker/tree/main">Workout Tracker</a></li>
     </ul>
   </li>
   
