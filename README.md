@@ -3,7 +3,7 @@
 <h2>🌇 About Me</h2>
 
 <ul>
-  <li>Web3 wizard and cybersecurity sleuth, weaving magic into the decentralized web and defending against the dark arts of cyber threats.</li>
+  <li>yo</li>
 </ul>
 
 <h2>📝 Stuff I've Worked On</h2>
