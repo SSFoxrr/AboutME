@@ -6,7 +6,7 @@
   <li>yo</li>
 </ul>
 
-<h2>📝 Stuff I've Worked On</h2>
+<h2>📝 Projects/Experiments</h2>
 
 <ul>
 
