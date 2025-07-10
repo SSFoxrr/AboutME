@@ -1,4 +1,4 @@
-<h1><i>Web3 Engineer && Cybersecurity Professional</i></h1>
+<h1><i>Machine Learning Engineer</i></h1>
 
 <h2>🌇 About Me</h2>
 
