@@ -1,4 +1,4 @@
-<h1><i>Quantitative Analyst | Python for Finance | Machine Learning | Security Background</i></h1>
+<h1><i>Quant | Python | ML</i></h1>
 
 <h2>🌇 About Me</h2>
 
