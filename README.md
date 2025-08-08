@@ -1,4 +1,4 @@
-<h1><i>Quant | Python | ML</i></h1>
+<h1><i>Data Science | Machine Learning</i></h1>
 
 <h2>🌇 About Me</h2>
 
